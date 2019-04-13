@@ -3,6 +3,8 @@ title: "Adventures From Level 50-54"
 date: 2019-04-13T15:53:43-06:00
 ---
 
+{{< youtube oLeODSTj_M4 >}}
+
 It was a productive day of leveling for my little rogue, starting out with completing off the Western Plaguelands zone. Everything went pretty smooth in finishing off the zone which is always welcome with no deaths, which after being used to only leveling with Heirloom gear is sometimes easier said then done.
 
 Moving past the Western Plaguelands I headed into the Eastern side where things got a little more tricky. Things mostly went smoothly, but well sometimes being able to either heal or having that extra good gear really does come in handy. If you watch the stream from Youtube you will notice I did actually die here when fighting the Lone Hunter, damn wolf and his bleeding me to death; thankfully I got the killing blow first. Once I completed that I was able to thankfully finish off my questing with out any further death.
