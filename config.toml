@@ -39,7 +39,7 @@ pygmentsCodefencesGuessSyntax = true
 #  # position: see values of CSS background-position.
 #  position = "center top"
 [[Params.bigimg]]
-  src = "img/hexagon.jpg"
+  src = "img/banner.png"
 #  desc = "Hexagon"
 
 [Author]
