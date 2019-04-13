@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Follow Me In My Gaming Journey!"
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/header.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
