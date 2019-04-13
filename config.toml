@@ -38,12 +38,12 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Sphere"
 #  # position: see values of CSS background-position.
 #  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
+  name = "Kyle"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
