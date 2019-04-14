@@ -3,7 +3,9 @@ title: "A Little About Me"
 date: 2019-04-12T19:35:52-06:00
 ---
 
-I am a mild mannored IT worker by day and avid gamer by night, well early night anyways, lets not get to crazy. 
+![About Me](/img/About.jpg)
+
+I am a mild mannored IT worker by day and avid gamer by night, well early night anyways, lets not get to crazy. I am also a husband to my wondeful wife and watcher of two small furry animals, our bull terrier Zelda and our cat Cheddar.
 
 I have been a gamer most of my life ever since getting my first console a Super Nintendo for Christmas, it was the Donkey Kong bundle if you really must know. Spoiler alert... Best Christmas EVER! And that is what started me on my path of gaming ever since. I have owned all major consoles, other then Sega ones, sorry about that Sega. And recently have once again rekindled my gaming love for Warcraft. 
 
