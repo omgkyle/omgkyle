@@ -76,12 +76,13 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "About Me"
     url = "https://www.omgkyle.com/about/"
-    weight = 3
+    weight = 2
 
-#[[menu.main]]
-#    identifier = "samples"
-#    name = "Samples"
-#    weight = 2
+[[menu.main]]
+    identifier = "communityguide"
+    name = "communityguide"
+    url = "https://www.omgkyle.com/communityguide/"
+    weight = 3
 
 #[[menu.main]]
 #    parent = "samples"
